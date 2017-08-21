@@ -1,0 +1,6 @@
+@mixin owl-nav-set {
+  display: inline-block;
+  width: $signin-button-height;
+  height: $signin-button-height;
+  background: url('../icon/slider_arrow.png') no-repeat;
+}
